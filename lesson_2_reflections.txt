@@ -8,6 +8,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches help a lot because if you want to separed you project into defferents lines, you can use this option and still working on the same stuff. Help a lot.
 
 How do the diagrams help you visualize the branch structure?
 
