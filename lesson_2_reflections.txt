@@ -1,5 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+This is like my first time doing this stuff, so only thing that i am trying to do is taste how work 'git add', and if i command only this word it will add all the files to the stanging area.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
@@ -15,6 +17,7 @@ Give me an idea of how this works, and i can merge this two stuff. That 's a goo
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+We represent tit in the diagram in that way because is logical and most have two parents.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Gits automatic merging vs. always doing merges
 manually?
