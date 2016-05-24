@@ -21,3 +21,4 @@ We represent tit in the diagram in that way because is logical and most have two
 
 What are the pros and cons of Gits automatic merging vs. always doing merges
 manually?
+Work well, because is obvious that git can't do everything.
