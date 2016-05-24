@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+I think that when i start to work with another person, in that moment i will need to use github or another remote repository. that 's the idea.
